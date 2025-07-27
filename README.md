@@ -21,7 +21,6 @@ Ideal for beginners learning computer vision and machine learning concepts appli
 - Collect hand landmark data from webcam or phone camera
 - Train a machine learning model using collected data
 - Predict real-time hand signs
-- Correct predictions manually and save corrections in `corrected_data.csv`
 
 ---
 
@@ -34,7 +33,6 @@ Ideal for beginners learning computer vision and machine learning concepts appli
 | `model.pkl` | The saved trained model |
 | `predict_realtime.py` | Run live camera and predict hand signs |
 | `data.csv` | Your labeled dataset |
-| `corrected_data.csv` | Stores corrections made during testing (optional) |
 
 ---
 
