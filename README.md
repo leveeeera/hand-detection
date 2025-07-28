@@ -4,6 +4,18 @@ A mini machine learning project that detects hand signs using MediaPipe, OpenCV,
 
 ---
 
+# Hand Sign Detection
+
+This project implements real-time hand sign detection using MediaPipe for landmark extraction and a RandomForest machine learning model for classification. It supports:
+
+- Collecting hand landmark data via webcam or IP camera
+- Training a model on collected data
+- Real-time gesture prediction with live video feed
+
+Ideal for beginners learning computer vision and machine learning concepts applied to hand gesture recognition.
+
+---
+
 ## 🧠 Features
 
 - Collect hand landmark data from webcam or phone camera
